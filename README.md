@@ -64,7 +64,7 @@ Highly recommended to have good tools if you're going to be crimping a lot
   * Purchase: https://www.printedsolid.com/products/ldo-voron-v0-display?variant=39319639162965
   * FYSETC's knockoff: https://smile.amazon.com/FYSETC-Accessories-Controller-Raspberry-Mainboard/dp/B095BY78D9/
   * FYSETC's knockoff case: https://www.thingiverse.com/thing:5090082
-* Timmit99's v0.1 Toolhead Ummbilical:
+* Timmit99's v0.1 Toolhead Umbilical:
   * Documentation: https://github.com/VoronDesign/Voron-Hardware/tree/master/V0-Umbilical
   * Purchase: https://kb-3d.com/store/electronics/358-voron-v01-umbilical-pcb-set-complete-tool-head-frame.html
 * Printed Solid Aluminum Composite Material (ACM) Panels:
